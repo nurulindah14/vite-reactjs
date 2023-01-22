@@ -2,7 +2,7 @@
 function Applikasi() {
   return (
     <div className="App">
-      <h1>indahhh</h1>
+      <h1>indahhh komit ke 2</h1>
     </div>
   )
 }
